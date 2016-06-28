@@ -43,4 +43,5 @@ IF(ISNUMBER(SEARCH(1064, B:B)),"82% Poly / 15% Rayon / 3% Spandex",
 IF(ISNUMBER(SEARCH(1065, B:B)),"84% Nylon / 16% Spandex",
 IF(ISNUMBER(SEARCH(1066, B:B)),"84% Nylon / 16% Spandex",
 IF(ISNUMBER(SEARCH(1067, B:B)),"84% Nylon / 16% Spandex",
+IF(ISNUMBER(SEARCH(1068,B:B)),"Top: 84% Nylon / 16% Spandex Bottom: 86% Nylon / 14% Spandex - 89% Nylon / 11% Spandex",
 "Missing"))))))))))))))))))))))))))))))))))))))))))))))
