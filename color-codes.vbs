@@ -12,4 +12,6 @@ IF(ISNUMBER(SEARCH("Burgundy",BF:BF)),"BRG",
 IF(ISNUMBER(SEARCH("Orange",BF:BF)),"ORN",
 IF(ISNUMBER(SEARCH("Navy",BF:BF)),"NVY",
 IF(ISNUMBER(SEARCH("Maroon",BF:BF)),"MRN",
-""))))))))))))))
+IF(ISNUMBER(SEARCH("Garnet",BF:BF)),"RED",
+IF(ISNUMBER(SEARCH("Charcoal",BF:BF)),"GRY",
+  "Missing"))))))))))))))))
